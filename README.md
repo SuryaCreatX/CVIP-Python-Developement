@@ -12,6 +12,7 @@ Welcome to my Python Development Internship repository. This repository serves a
   - [Normal Task - Typing Speed Test](#normal-task---typing-speed-test)
   - [Golden Task - Voice Recorder](#golden-task---voice-recorder)
 - [Final Thoughts](#final-thoughts)
+- [Acknowledgment](#Acknowledgment)
 
 ## Introduction
 
@@ -95,3 +96,9 @@ python VoiceRecord.py
 ## Final Thoughts 💭✨
 
 I am immensely grateful to Coders Cave for providing me with this invaluable opportunity. Working on these diverse and intriguing projects was an amazing experience. At times, it felt like I was rediscovering Python as I delved into these projects. They not only provided a quick refresher on various Python concepts but also allowed me to explore new territories.
+
+---
+
+## Acknowledgment
+
+All work presented in this repository is solely the result of my own efforts and creativity. Any external resources utilized have been appropriately credited and referenced. I take full responsibility for the originality and authenticity of the content submitted.
